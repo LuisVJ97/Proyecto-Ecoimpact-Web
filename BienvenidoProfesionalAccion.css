@@ -1,0 +1,167 @@
+.mediaViewInfo {
+	--web-view-name: BienvenidoAccion (profesional);
+	--web-view-id: BienvenidoAccion_profesional;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: BienvenidoAccion_profesional;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.BienvenidoAccion_profesional_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(120,251,137,1);
+	overflow: hidden;
+	--web-view-name: BienvenidoAccion (profesional);
+	--web-view-id: BienvenidoAccion_profesional;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+.f09b66b9abb3ce8b6474d0b5629890_Class {
+	opacity: 0.69;
+	position: absolute;
+	width: 1934.921px;
+	height: 1363.294px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.logoEco1_Class {
+	position: absolute;
+	width: 222px;
+	height: 160px;
+	left: 34px;
+	top: 920px;
+	overflow: visible;
+}
+.Qu_desea_hacer__Class {
+	left: 554.5px;
+	top: 193px;
+	position: absolute;
+	overflow: visible;
+	width: 812px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 94px;
+	color: rgba(12,12,12,1);
+}
+.Rectngulo_19_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_19 {
+	position: absolute;
+	overflow: visible;
+	width: 459px;
+	height: 123px;
+	left: 731px;
+	top: 682px;
+}
+.CrearBuscar_un_evento_Class a{
+	left: 745.5px;
+	top: 715.5px;
+	position: absolute;
+	overflow: visible;
+	width: 431px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 41px;
+	color: rgba(12,12,12,1);
+	text-decoration: none;
+}
+.Rectngulo_29_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_29 {
+	position: absolute;
+	overflow: visible;
+	width: 382px;
+	height: 131px;
+	left: 312px;
+	top: 458px;
+}
+.Rectngulo_30_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_30 {
+	position: absolute;
+	overflow: visible;
+	width: 453px;
+	height: 128px;
+	left: 1208px;
+	top: 458px;
+}
+.CrearVer_un_foro_Class a{
+	left: 337px;
+	top: 483px;
+	position: absolute;
+	overflow: visible;
+	width: 333px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 43px;
+	color: rgba(12,12,12,1);
+	text-decoration: none;
+}
+.CrearVer_un_tutorial_Class a{
+	left: 1240px;
+	top: 483px;
+	position: absolute;
+	overflow: visible;
+	width: 390px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 43px;
+	color: rgba(12,12,12,1);
+	text-decoration: none;
+}
+.Cuenta_profesional__Class {
+	left: 43.5px;
+	top: 76px;
+	position: absolute;
+	overflow: visible;
+	width: 538px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 62px;
+	color: rgba(12,12,12,1);
+}

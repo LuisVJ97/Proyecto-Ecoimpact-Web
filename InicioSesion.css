@@ -1,0 +1,194 @@
+.mediaViewInfo {
+	--web-view-name: Inicio de sesion;
+	--web-view-id: Inicio_de_sesion;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Inicio_de_sesion;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Inicio_de_sesion_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(120,251,137,1);
+	overflow: hidden;
+	--web-view-name: Inicio de sesion;
+	--web-view-id: Inicio_de_sesion;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.f09b66b9abb3ce8b6474d0b5629890_Class {
+	opacity: 0.69;
+	position: absolute;
+	width: 1934.921px;
+	height: 1363.294px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.logoEco1_Class {
+	position: absolute;
+	width: 222px;
+	height: 160px;
+	left: 34px;
+	top: 920px;
+	overflow: visible;
+}
+.Inicie_sesion_Class {
+	left: 693px;
+	top: 201px;
+	position: absolute;
+	overflow: hidden;
+	width: 536px;
+	height: 84px;
+	text-align: center;
+	font-family: Dolce Vita Quite;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 75px;
+	color: rgba(12,12,12,1);
+}
+.Rectngulo_17_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_17 {
+	position: absolute;
+	overflow: visible;
+	width: 812px;
+	height: 147px;
+	left: 554px;
+	top: 343px;
+}
+.Nombre_de_usuario_o_Correo_ele_Class {
+	left: 569.5px;
+	top: 392px;
+	position: absolute;
+	overflow: visible;
+	width: 782px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 44px;
+	color: rgba(12,12,12,1);
+}
+.Rectngulo_18_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_18 {
+	position: absolute;
+	overflow: visible;
+	width: 812px;
+	height: 147px;
+	left: 554px;
+	top: 548px;
+}
+.Contrasea_Class {
+	left: 833px;
+	top: 589px;
+	position: absolute;
+	overflow: visible;
+	width: 256px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(12,12,12,1);
+}
+.Olvide_mi_contrasea_Class a{
+	left: 444px;
+	top: 967px;
+	position: absolute;
+	overflow: visible;
+	width: 468px;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(12,12,12,1);
+	text-decoration: none;
+}
+.Crear_una_cuenta_Class a{
+	left: 1124px;
+	top: 967px;
+	position: absolute;
+	overflow: visible;
+	width: 380px;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(12,12,12,1);
+	text-decoration: none;
+}
+.Rectngulo_19_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_19 {
+	position: absolute;
+	overflow: visible;
+	width: 247px;
+	height: 79px;
+	left: 844px;
+	top: 753px;
+}
+.Ingresar_Class a{
+	left: 889px;
+	top: 764px;
+	position: absolute;
+	overflow: visible;
+	width: 158px;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 43px;
+	color: rgba(12,12,12,1);
+	text-decoration: none;
+}

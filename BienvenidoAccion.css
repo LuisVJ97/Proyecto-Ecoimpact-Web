@@ -1,0 +1,166 @@
+.mediaViewInfo {
+	--web-view-name: BienvenidoAccion;
+	--web-view-id: BienvenidoAccion;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: BienvenidoAccion;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.BienvenidoAccion_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(120,251,137,1);
+	overflow: hidden;
+	--web-view-name: BienvenidoAccion;
+	--web-view-id: BienvenidoAccion;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.f09b66b9abb3ce8b6474d0b5629890_Class {
+	opacity: 0.69;
+	position: absolute;
+	width: 1934.921px;
+	height: 1363.294px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.logoEco1_Class {
+	position: absolute;
+	width: 222px;
+	height: 160px;
+	left: 34px;
+	top: 920px;
+	overflow: visible;
+}
+.Qu_desea_hacer__Class {
+	left: 554.5px;
+	top: 193px;
+	position: absolute;
+	overflow: visible;
+	width: 812px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 94px;
+	color: rgba(12,12,12,1);
+}
+.Rectngulo_29_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_29 {
+	position: absolute;
+	overflow: visible;
+	width: 382px;
+	height: 131px;
+	left: 312px;
+	top: 458px;
+	cursor: pointer;
+}
+.Rectngulo_30_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_30 {
+	position: absolute;
+	overflow: visible;
+	width: 442px;
+	height: 128px;
+	left: 1242px;
+	top: 461px;
+	cursor: pointer;
+}
+.CrearVer_un_foro_Class a{
+	left: 337px;
+	top: 483px;
+	position: absolute;
+	overflow: visible;
+	width: 333px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 43px;
+	color: rgba(12,12,12,1);
+	text-decoration: none;
+}
+.CrearVer_un_tutorial_Class a{
+	left: 1272px;
+	top: 483px;
+	position: absolute;
+	overflow: visible;
+	width: 390px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 43px;
+	color: rgba(12,12,12,1);
+	text-decoration: none;
+}
+.Rectngulo_31_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_31 {
+	position: absolute;
+	overflow: visible;
+	width: 496px;
+	height: 131px;
+	left: 712px;
+	top: 699px;
+	cursor: pointer;
+}
+.Buscar_un_evento_Class a{
+	left: 795px;
+	top: 736px;
+	position: absolute;
+	overflow: visible;
+	width: 331px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 43px;
+	color: rgba(12,12,12,1);
+	text-decoration: none;
+}

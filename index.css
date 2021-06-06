@@ -1,0 +1,512 @@
+
+
+.mediaViewInfo {
+	--web-view-name: Pagina Web (Inicio);
+	--web-view-id: Pagina_Web_Inicio;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Pagina_Web_Inicio;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Pagina_Web_Inicio_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,0.961);
+	overflow: hidden;
+	--web-view-name: Pagina Web (Inicio);
+	--web-view-id: Pagina_Web_Inicio;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+.meadow-plateau-fog-months-the-_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1373.539px;
+	left: 0px;
+	top: -123.769px;
+	overflow: visible;
+}
+.que-es-el-marketing-verde-ambi_Class {
+	position: absolute;
+	width: 1260.381px;
+	height: 750.43px;
+	left: 360.619px;
+	top: 152px;
+	overflow: visible;
+}
+.Grupo_3_Class {
+	position: absolute;
+	width: 124px;
+	height: 39.75px;
+	left: 1764px;
+	top: 35.25px;
+	overflow: visible;
+}
+.Rectngulo_5_Class {
+	fill: rgba(255,255,255,0.169);
+	stroke: rgba(0,0,0,0.961);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_5 {
+	position: absolute;
+	overflow: visible;
+	width: 124px;
+	height: 38px;
+	left: 0px;
+	top: 1.75px;
+}
+.SIGN_UP_Class a{
+	left: 8.809px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 110px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	text-decoration: none;
+	color: rgba(12,12,12,1);
+}
+.Grupo_4_Class {
+	position: absolute;
+	width: 124px;
+	height: 40px;
+	left: 1628px;
+	top: 35px;
+	overflow: visible;
+}
+.Rectngulo_4_Class {
+	fill: rgba(255,255,255,0.169);
+	stroke: rgba(0,0,0,0.961);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_4 {
+	position: absolute;
+	overflow: visible;
+	width: 124px;
+	height: 38px;
+	left: 0px;
+	top: 2px;
+}
+.LOG_IN_Class a{
+	left: 17px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	color: rgba(12,12,12,1);
+	text-decoration: none;
+}
+.logoEco1_Class {
+	position: absolute;
+	width: 136px;
+	height: 98px;
+	left: 65px;
+	top: 1px;
+	overflow: visible;
+}
+.Bienvenido_a_Nuestra_Pgina_Ofi_Class {
+	left: 418.815px;
+	top: 327px;
+	position: absolute;
+	overflow: hidden;
+	width: 1171px;
+	height: 84px;
+	text-align: left;
+	font-family: Dolce Vita Quite;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 75px;
+	color: rgba(12,12,12,1);
+}
+.Nuestros_servicios_Class {
+	left: 1660px;
+	top: 450px;
+	position: absolute;
+	overflow: visible;
+	width: 210px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(12,12,12,1);
+}
+.Nuestros_servicios_bs_Class {
+	left: 1662px;
+	top: 451px;
+	position: absolute;
+	overflow: visible;
+	width: 210px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(254,254,254,1);
+}
+
+.Grupo_37_Class {
+	position: absolute;
+	width: 144px;
+	height: 123px;
+	left: 1711px;
+	top: 493.5px;
+	overflow: visible;
+}
+.Grupo_17_Class {
+	position: absolute;
+	width: 144px;
+	height: 123px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Grupo_20_Class {
+	position: absolute;
+	width: 144.19px;
+	height: 122.653px;
+	left: -0.271px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectngulo_6_Class {
+	fill: rgba(255,255,255,0.922);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_6 {
+	position: absolute;
+	overflow: visible;
+	width: 144.19px;
+	height: 115.653px;
+	left: 0px;
+	top: 7px;
+}
+.Icon1-1_Class {
+	position: absolute;
+	width: 90px;
+	height: 84px;
+	left: 27.095px;
+	top: 0px;
+	overflow: visible;
+}
+.TUTORIALES_Class {
+	left: 15px;
+	top: 77px;
+	position: absolute;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(12,12,12,1);
+}
+.Grupo_18_Class {
+	position: absolute;
+	width: 151.194px;
+	height: 118.311px;
+	left: 1709.222px;
+	top: 635px;
+	overflow: visible;
+}
+.Trazado_1_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1 {
+	overflow: visible;
+	position: absolute;
+	width: 151.194px;
+	height: 118.311px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Sin_ttulo-2_Class {
+	position: absolute;
+	width: 75.146px;
+	height: 78.172px;
+	left: 40.2px;
+	top: 0px;
+	overflow: visible;
+}
+.FOROS_Class {
+	left: 46.273px;
+	top: 74.172px;
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(12,12,12,1);
+}
+.Grupo_19_Class {
+	position: absolute;
+	width: 151px;
+	height: 114px;
+	left: 1709px;
+	top: 768px;
+	overflow: visible;
+}
+.Rectngulo_8_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_8 {
+	position: absolute;
+	overflow: visible;
+	width: 151px;
+	height: 114px;
+	left: 0px;
+	top: 0px;
+}
+.Sin_ttulo-3_Class {
+	position: absolute;
+	width: 100px;
+	height: 99px;
+	left: 27px;
+	top: 0px;
+	overflow: visible;
+}
+.EVENTOS_Class {
+	left: 33.5px;
+	top: 72.804px;
+	position: absolute;
+	overflow: visible;
+	width: 88px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(12,12,12,1);
+}
+.Bienvenido_a_Nuestra_Pgina_Ofi_bm_Class {
+	left: 424.815px;
+	top: 330px;
+	position: absolute;
+	overflow: hidden;
+	width: 1171px;
+	height: 84px;
+	text-align: left;
+	font-family: Dolce Vita Quite;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 75px;
+	color: rgba(255,255,255,1);
+}
+.ID2d14b405-e2ab-495f-822a-8d32_Class {
+	position: absolute;
+	width: 313px;
+	height: 144px;
+	left: 0px;
+	top: 920px;
+	overflow: visible;
+}
+.ID446090_Class {
+	position: absolute;
+	width: 179px;
+	height: 179px;
+	left: 133px;
+	top: 741px;
+	overflow: visible;
+}
+.Contactanos_Class {
+	left: 149px;
+	top: 805.5px;
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Tahoma;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 27px;
+	color: rgba(252,251,251,1);
+}
+.logoEco1_bq_Class {
+	position: absolute;
+	width: 260px;
+	height: 187px;
+	left: 1653px;
+	top: 168px;
+	overflow: visible;
+}
+.Rectngulo_32_Class {
+	fill: rgba(3,3,252,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_32 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 16px;
+	left: 0px;
+	top: 125px;
+}
+
+.RECICLAR_ES_DARLE_VIDA_AL_MUND_Class {
+	left: 24px;
+	top: 99px;
+	position: absolute;
+	overflow: visible;
+	width: 279px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(28,26,26,1);
+}
+.Imagen_1_Class {
+	position: absolute;
+	width: 419px;
+	height: 56px;
+	left: 769px;
+	top: 43px;
+	overflow: visible;
+}
+.Que_deseas_buscar_hoy_Class {
+	left: 554px;
+	top: 62px;
+	position: absolute;
+	overflow: visible;
+	width: 216px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Corbel;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(28,26,26,1);
+}
+.Rectngulo_33_Class {
+	fill: rgba(174,255,141,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_33 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 16px;
+	left: 0px;
+	top: 136px;
+}
+.Ecoimpact_es_un_espacio_en_don_Class {
+	left: 554px;
+	top: 459px;
+	position: absolute;
+	overflow: visible;
+	width: 977px;
+	height: 347px;
+	text-align: left;
+	font-family: Cambria Math;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+.Quines_somos_Class {
+	left: 1276.5px;
+	top: 50.5px;
+	position: absolute;
+	overflow: visible;
+	width: 169px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Dolce Vita Quite;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(12,12,12,1);
+}
+.Ayuda_Class {
+	left: 1491.5px;
+	top: 50.5px;
+	position: absolute;
+	overflow: visible;
+	width: 62px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Dolce Vita Quite;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(12,12,12,1);
+}
+.Ecoimpact_es_un_espacio_en_don_b_Class {
+	left: 556px;
+	top: 460px;
+	position: absolute;
+	overflow: visible;
+	width: 977px;
+	height: 347px;
+	text-align: left;
+	font-family: Cambria Math;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}

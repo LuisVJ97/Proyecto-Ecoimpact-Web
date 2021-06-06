@@ -1,0 +1,145 @@
+.mediaViewInfo {
+	--web-view-name: Bienvenido (profesional);
+	--web-view-id: Bienvenido_profesional;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Bienvenido_profesional;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Bienvenido_profesional_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(120,251,137,1);
+	overflow: hidden;
+	--web-view-name: Bienvenido (profesional);
+	--web-view-id: Bienvenido_profesional;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+.f09b66b9abb3ce8b6474d0b5629890_Class {
+	opacity: 0.69;
+	position: absolute;
+	width: 1934.921px;
+	height: 1363.294px;
+	left: -14.921px;
+	top: 0px;
+	overflow: visible;
+}
+.logoEco1_Class {
+	position: absolute;
+	width: 222px;
+	height: 160px;
+	left: 34px;
+	top: 920px;
+	overflow: visible;
+}
+.BIENVENIDO_Class {
+	left: 733px;
+	top: 269px;
+	position: absolute;
+	overflow: hidden;
+	width: 456px;
+	height: 84px;
+	text-align: left;
+	font-family: Dolce Vita Quite;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 75px;
+	color: rgba(12,12,12,1);
+}
+.Nombre_de_usuario__ba_Class {
+	left: 549.5px;
+	top: 417px;
+	position: absolute;
+	overflow: visible;
+	width: 822px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 94px;
+	color: rgba(12,12,12,1);
+}
+.Rectngulo_19_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_19 {
+	position: absolute;
+	overflow: visible;
+	width: 247px;
+	height: 79px;
+	left: 837px;
+	top: 841px;
+}
+.Continuar_Class a{
+	left: 867px;
+	top: 852px;
+	position: absolute;
+	overflow: visible;
+	width: 187px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 43px;
+	color: rgba(12,12,12,1);
+	text-decoration: none;
+}
+.Cuenta_Profesional_Class {
+	left: 49.5px;
+	top: 82.5px;
+	position: absolute;
+	overflow: visible;
+	width: 501px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 59px;
+	color: rgba(12,12,12,1);
+}
+.Nombre_de_usuario__ba_Class {
+	left: 549.5px;
+	top: 417px;
+	position: absolute;
+	overflow: visible;
+	width: 822px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 94px;
+	color: rgba(12,12,12,1);
+}
+.Nombre_de_usuario__ba_Class {
+	left: 549.5px;
+	top: 417px;
+	position: absolute;
+	overflow: visible;
+	width: 822px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 94px;
+	color: rgba(12,12,12,1);
+}

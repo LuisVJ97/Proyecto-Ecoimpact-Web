@@ -1,0 +1,303 @@
+.mediaViewInfo {
+	--web-view-name: Foros;
+	--web-view-id: Foros;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Foros;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Foros_Class {
+	position: absolute;
+	width: 1894px;
+	height: 1079px;
+	background-color: rgba(120,251,137,1);
+	overflow: hidden;
+	--web-view-name: Foros;
+	--web-view-id: Foros;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+.f09b66b9abb3ce8b6474d0b5629890_Class {
+	opacity: 0.69;
+	position: absolute;
+	width: 1934.921px;
+	height: 1363.294px;
+	left: -20.461px;
+	top: 0px;
+	overflow: visible;
+}
+.FOROS_Class {
+	left: 814px;
+	top: 51px;
+	position: absolute;
+	overflow: visible;
+	width: 350px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: VIPER NORA;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 120px;
+	color: rgba(12,12,12,1);
+}
+.Rectngulo_8_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_8 {
+	position: absolute;
+	overflow: visible;
+	width: 983px;
+	height: 729px;
+	left: 485px;
+	top: 233px;
+}
+.logoEco1_Class {
+	position: absolute;
+	width: 222px;
+	height: 160px;
+	left: 45px;
+	top: 882px;
+	overflow: visible;
+}
+.Seccin_de_foros__Class {
+	left: 796px;
+	top: 389px;
+	position: absolute;
+	overflow: visible;
+	width: 365px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Dolce Vita Quite;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(12,12,12,1);
+}
+.Grupo_26_Class {
+	position: absolute;
+	width: 246px;
+	height: 51px;
+	left: 106px;
+	top: 489px;
+	overflow: visible;
+}
+.Rectngulo_26_Class {
+	fill: rgba(255,255,255,0.169);
+	stroke: rgba(0,0,0,0.961);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_26 {
+	position: absolute;
+	overflow: visible;
+	width: 246px;
+	height: 50px;
+	left: 0px;
+	top: 1px;
+}
+.TUTORIALES_Class a{
+	left: 40px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Dolce Vita Quite;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(12,12,12,1);
+	text-decoration: none;
+}
+.Grupo_31_Class {
+	position: absolute;
+	width: 246px;
+	height: 51px;
+	left: 1584px;
+	top: 991px;
+	overflow: visible;
+}
+.Rectngulo_26__Class {
+	fill: rgba(255,255,255,0.169);
+	stroke: rgba(0,0,0,0.961);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_26_ {
+	position: absolute;
+	overflow: visible;
+	width: 246px;
+	height: 50px;
+	left: 0px;
+	top: 1px;
+}
+.Reportar_Class a{
+	left: 40px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 134px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Dolce Vita Quite;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(12,12,12,1);
+	text-decoration: none;
+}
+.Grupo_24_Class {
+	position: absolute;
+	width: 246px;
+	height: 51px;
+	left: 641px;
+	top: 745px;
+	overflow: visible;
+}
+.Rectngulo_4_Class {
+	fill: rgba(255,255,255,0.169);
+	stroke: rgba(0,0,0,0.961);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_4 {
+	position: absolute;
+	overflow: visible;
+	width: 246px;
+	height: 50px;
+	left: 0px;
+	top: 1px;
+}
+.VER_Class {
+	left: 72.5px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Dolce Vita Quite;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(12,12,12,1);
+}
+.Grupo_24_bb_Class {
+	position: absolute;
+	width: 246px;
+	height: 51px;
+	left: 1040px;
+	top: 745px;
+	overflow: visible;
+}
+.Rectngulo_4_bc_Class {
+	fill: rgba(255,255,255,0.169);
+	stroke: rgba(0,0,0,0.961);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_4_bc {
+	position: absolute;
+	overflow: visible;
+	width: 246px;
+	height: 50px;
+	left: 0px;
+	top: 1px;
+}
+.CREAR_Class {
+	left: 72.5px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Dolce Vita Quite;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(12,12,12,1);
+}
+.Grupo_27_Class {
+	position: absolute;
+	width: 246px;
+	height: 52px;
+	left: 106px;
+	top: 349px;
+	overflow: visible;
+}
+.Rectngulo_25_Class {
+	fill: rgba(255,255,255,0.169);
+	stroke: rgba(0,0,0,0.961);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_25 {
+	position: absolute;
+	overflow: visible;
+	width: 246px;
+	height: 50px;
+	left: 0px;
+	top: 2px;
+}
+.Rectngulo_28_Class {
+	fill: rgba(255,255,255,0.169);
+	stroke: rgba(0,0,0,0.961);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_28 {
+	position: absolute;
+	overflow: visible;
+	width: 246px;
+	height: 50px;
+	left: 0px;
+	top: 2px;
+}
+.EVENTOS_Class a{
+	left: 59.5px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 146px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Dolce Vita Quite;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(12,12,12,1);
+	text-decoration: none;
+}

@@ -1,0 +1,166 @@
+.mediaViewInfo {
+	--web-view-name: Crear cuenta (Inicio);
+	--web-view-id: Crear_cuenta_Inicio;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Crear_cuenta_Inicio;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Crear_cuenta_Inicio_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(120,251,137,1);
+	overflow: hidden;
+	--web-view-name: Crear cuenta (Inicio);
+	--web-view-id: Crear_cuenta_Inicio;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.f09b66b9abb3ce8b6474d0b5629890_Class {
+	opacity: 0.69;
+	position: absolute;
+	width: 1920px;
+	height: 1352.781px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.logoEco1_Class {
+	position: absolute;
+	width: 222px;
+	height: 160px;
+	left: 34px;
+	top: 920px;
+	overflow: visible;
+}
+.Crear_cuenta_Class {
+	left: 716px;
+	top: 138px;
+	position: absolute;
+	overflow: visible;
+	width: 490px;
+	height: 107px;
+	text-align: left;
+	font-family: Dolce Vita Quite;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 75px;
+	color: rgba(12,12,12,1);
+}
+.Rectngulo_17_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_17 {
+	position: absolute;
+	overflow: visible;
+	width: 812px;
+	height: 147px;
+	left: 554px;
+	top: 343px;
+	cursor: pointer;
+}
+.Principiante_Class a{
+	left: 843.5px;
+	top: 392px;
+	position: absolute;
+	overflow: visible;
+	width: 234px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 44px;
+	color: rgba(12,12,12,1);
+	text-decoration: none;
+}
+.Rectngulo_18_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_18 {
+	position: absolute;
+	overflow: visible;
+	width: 812px;
+	height: 147px;
+	left: 554px;
+	top: 548px;
+	cursor: pointer;
+}
+.Experto_Class a{
+	left: 875px;
+	top: 589px;
+	position: absolute;
+	overflow: visible;
+	width: 171px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(12,12,12,1);
+	text-decoration: none;
+}
+.Rectngulo_19_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_19 {
+	position: absolute;
+	overflow: visible;
+	width: 376px;
+	height: 126px;
+	left: 284px;
+	top: 920px;
+}
+.Retroceder_Class a{
+	left: 350px;
+	top: 950px;
+	position: absolute;
+	overflow: visible;
+	width: 244px;
+	white-space: nowrap;
+	cursor: pointer;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(12,12,12,1);
+	text-decoration: none;
+}

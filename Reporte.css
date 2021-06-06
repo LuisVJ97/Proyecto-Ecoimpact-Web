@@ -1,0 +1,139 @@
+.mediaViewInfo {
+	--web-view-name: Reporte;
+	--web-view-id: Reporte;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Reporte;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Reporte_Class {
+	position: absolute;
+	width: 1894px;
+	height: 1079px;
+	background-color: rgba(120,251,137,1);
+	overflow: hidden;
+	--web-view-name: Reporte;
+	--web-view-id: Reporte;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.f09b66b9abb3ce8b6474d0b5629890_Class {
+	opacity: 0.69;
+	position: absolute;
+	width: 1934.921px;
+	height: 1363.294px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Reportar_Class {
+	left: 690px;
+	top: 78px;
+	position: absolute;
+	overflow: visible;
+	width: 600px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: VIPER NORA;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 120px;
+	color: rgba(12,12,12,1);
+}
+.Rectngulo_8_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_8 {
+	position: absolute;
+	overflow: visible;
+	width: 983px;
+	height: 729px;
+	left: 485px;
+	top: 233px;
+}
+.logoEco1_Class {
+	position: absolute;
+	width: 222px;
+	height: 160px;
+	left: 45px;
+	top: 882px;
+	overflow: visible;
+}
+.Seccin_para_rellenar_el_report_Class {
+	left: 598px;
+	top: 528px;
+	position: absolute;
+	overflow: visible;
+	width: 688px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Dolce Vita Quite;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(12,12,12,1);
+}
+.Grupo_32_Class {
+	position: absolute;
+	width: 246px;
+	height: 52px;
+	left: 1571px;
+	top: 990px;
+	overflow: visible;
+	cursor: pointer;
+}
+.Rectngulo_26_Class {
+	fill: rgba(255,255,255,0.169);
+	stroke: rgba(0,0,0,0.961);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_26 {
+	position: absolute;
+	overflow: visible;
+	width: 246px;
+	height: 50px;
+	left: 0px;
+	top: 2px;
+}
+.Finalizar_Class a{
+	left: 57px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 127px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Dolce Vita Quite;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(12,12,12,1);
+	text-decoration: none;
+}

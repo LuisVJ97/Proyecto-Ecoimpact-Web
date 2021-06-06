@@ -1,0 +1,338 @@
+.mediaViewInfo {
+	--web-view-name: Crear una cuenta (Profesional);
+	--web-view-id: Crear_una_cuenta_Profesional;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Crear_una_cuenta_Profesional;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Crear_una_cuenta_Profesional_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(120,251,137,1);
+	overflow: hidden;
+	--web-view-name: Crear una cuenta (Profesional);
+	--web-view-id: Crear_una_cuenta_Profesional;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+.f09b66b9abb3ce8b6474d0b5629890_Class {
+	opacity: 0.69;
+	position: absolute;
+	width: 1934.921px;
+	height: 1363.294px;
+	left: -7.46px;
+	top: 0px;
+	overflow: visible;
+}
+.logoEco1_Class {
+	position: absolute;
+	width: 222px;
+	height: 160px;
+	left: 34px;
+	top: 920px;
+	overflow: visible;
+}
+.Crear_una_cuenta_Profesional_z_Class {
+	left: 657px;
+	top: 98px;
+	position: absolute;
+	overflow: visible;
+	width: 608px;
+	height: 224px;
+	text-align: left;
+	font-family: Dolce Vita Quite;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 75px;
+	color: rgba(12,12,12,1);
+}
+.Rectngulo_17_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_17 {
+	position: absolute;
+	overflow: visible;
+	width: 633px;
+	height: 107px;
+	left: 200px;
+	top: 361px;
+}
+.Nombre__Class {
+	left: 228px;
+	top: 295px;
+	position: absolute;
+	overflow: visible;
+	width: 170px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 44px;
+	color: rgba(12,12,12,1);
+}
+.Rectngulo_18_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_18 {
+	position: absolute;
+	overflow: visible;
+	width: 633px;
+	height: 107px;
+	left: 200px;
+	top: 574px;
+}
+.Contrasea_Class {
+	left: 228px;
+	top: 500px;
+	position: absolute;
+	overflow: visible;
+	width: 256px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(12,12,12,1);
+}
+.Rectngulo_19_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_19 {
+	position: absolute;
+	overflow: visible;
+	width: 247px;
+	height: 79px;
+	left: 1085px;
+	top: 824px;
+}
+.Rectngulo_20_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_20 {
+	position: absolute;
+	overflow: visible;
+	width: 633px;
+	height: 107px;
+	left: 200px;
+	top: 805px;
+}
+.Repita_Contrasea_Class {
+	left: 228px;
+	top: 713px;
+	position: absolute;
+	overflow: visible;
+	width: 410px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(12,12,12,1);
+}
+.Rectngulo_21_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_21 {
+	position: absolute;
+	overflow: visible;
+	width: 633px;
+	height: 107px;
+	left: 1085px;
+	top: 361px;
+}
+.Apellidos_Class {
+	left: 1115px;
+	top: 295px;
+	position: absolute;
+	overflow: visible;
+	width: 182px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 44px;
+	color: rgba(12,12,12,1);
+}
+.Rectngulo_22_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_22 {
+	position: absolute;
+	overflow: visible;
+	width: 633px;
+	height: 107px;
+	left: 1085px;
+	top: 581px;
+}
+.Correo_electronico_Class {
+	left: 1113px;
+	top: 507px;
+	position: absolute;
+	overflow: visible;
+	width: 410px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(12,12,12,1);
+}
+.Edad_Class {
+	left: 1115px;
+	top: 750px;
+	position: absolute;
+	overflow: visible;
+	width: 100px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 44px;
+	color: rgba(12,12,12,1);
+}
+.Rectngulo_23_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_23 {
+	position: absolute;
+	overflow: visible;
+	width: 267px;
+	height: 79px;
+	left: 1423px;
+	top: 816px;
+}
+.H__M_Class {
+	left: 1497px;
+	top: 750px;
+	position: absolute;
+	overflow: visible;
+	width: 111px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 44px;
+	color: rgba(12,12,12,1);
+}
+.Rectngulo_24_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_24 {
+	position: absolute;
+	overflow: visible;
+	width: 247px;
+	height: 79px;
+	left: 837px;
+	top: 970px;
+}
+.Crear_Class a{
+	left: 907px;
+	top: 981px;
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 44px;
+	color: rgba(12,12,12,1);
+	text-decoration: none;
+}
+.Rectngulo_19_bg_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_19_bg {
+	position: absolute;
+	overflow: visible;
+	width: 260px;
+	height: 70px;
+	left: 313px;
+	top: 975px;
+}
+.Retroceder_Class a{
+	left: 358px;
+	top: 986.5px;
+	position: absolute;
+	overflow: visible;
+	width: 171px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(12,12,12,1);
+	text-decoration: none;
+}
